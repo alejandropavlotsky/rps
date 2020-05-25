@@ -1,1 +1,1 @@
-# rps
+# ROCK PAPER SCISSORS GAME
